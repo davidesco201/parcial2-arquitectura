@@ -1,4 +1,4 @@
-package co.edu.unisabana.parcialarquitectura.service;
+package co.edu.unisabana.parcialarquitectura.service.exception;
 
 public class IllegalSaleException extends RuntimeException {
 
